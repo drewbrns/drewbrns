@@ -4,7 +4,7 @@ I am a software engineer with experience in Swift, Python and JavaScript. I prim
 
 I recently worked as an iOS Engineer at [DAZN](https://dazngroup.com/) where I was involved in a lot of interesting projects and features, most notably building features to provide support for [NFL Game Pass International](https://www.dazn.com/en-US/news/football/dazn-and-nfl-sign-long-term-global-deal-from-2023-season/7azf7nio2pm11mvim1ypoi711) globally through DAZN.
 
-In 2015, after graduating from [MEST Africa](https://meltwater.org/), I co-founded [Ampersand Technologies Ltd](https://ampersandllc.co), where I served as Tech Lead. In this role, I had the opportunity to provide technical vision and leadership for the company as well as provide mentorship for entry-level engineers and interns.
+In 2015, after graduating from [MEST Africa](https://meltwater.org/), I co-founded [Ampersand Technologies Ltd](https://ampersandllc.co) where I served as Tech Lead. In this role, I had the opportunity to provide technical vision and leadership for the company as well as provide mentorship for entry-level engineers and interns.
 
 <!-- I'm currently taking a deep dive into software architecture, I've taken a liken to [Clean Architecture written by Robert C. Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) -->
 
